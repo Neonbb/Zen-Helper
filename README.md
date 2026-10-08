@@ -5,7 +5,7 @@
 
 ## Overview
 
-PS Dual Launcher v16 is a lightweight, portable utility from the Zen Utility Toolkit, purpose-built for Project Sylvanas (PS) client multi-instance management. It allows users to run multiple PS client instances simultaneously on a single Windows system without duplicate client installations, and integrates built-in World of Warcraft (WOW) client file backup & restore functionality to protect addon configurations and interface customizations.
+Zen Helper v16, purpose-built for Project Sylvanas (PS) client multi-instance management. It allows users to run multiple PS client instances simultaneously on a single Windows system without duplicate client installations, and integrates built-in World of Warcraft (WOW) client file backup & restore functionality to protect addon configurations and interface customizations.
 
 ## Download
 
