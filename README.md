@@ -1,5 +1,3 @@
-# Zen-Helper
-
 # Zen-Helper v16 | Release Distribution
 
 ## Overview
