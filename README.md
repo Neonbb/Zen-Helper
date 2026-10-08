@@ -1,4 +1,7 @@
-# Zen-Helper v16 | Release Distribution
+# Zen Helper (Dual PS Client Launching & WOW Client Backup)
+
+
+## Zen Helper v16 | Release Distribution
 
 ## Overview
 
